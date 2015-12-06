@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: contact.html
+Sitemap: http://blog.r3bl.me/sitemap.xml
